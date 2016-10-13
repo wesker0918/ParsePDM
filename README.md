@@ -1,3 +1,4 @@
+作者:https://github.com/smshen/ParsePDM
 # ParsePDM
 在 Mac OS 上查看 PDM 文件
 ## 使用方式
